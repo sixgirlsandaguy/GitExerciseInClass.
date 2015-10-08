@@ -7,4 +7,8 @@ Mean girls - bara fyrir okkur
 500 days of summer - fav
 Prinsessan og durtarnir
 The Escape
+<<<<<<< HEAD
 vala
+=======
+prufa
+>>>>>>> d29dccf9b86a9119e74a1e0a0f3038dd620afb70
